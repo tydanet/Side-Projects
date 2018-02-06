@@ -1,3 +1,4 @@
 # Side-Projects
-Programming for fun
-Things in here may or may not be complete
+Programming for fun.
+
+Things in here may or may not be complete.
